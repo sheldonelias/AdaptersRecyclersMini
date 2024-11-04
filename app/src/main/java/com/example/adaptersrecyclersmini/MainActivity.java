@@ -17,6 +17,7 @@ import java.util.Scanner;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Instance Variables found below Android LifeCycle Methods
 
     //ANDROID LIFECYLE METHOD
     @Override
